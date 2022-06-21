@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481838291225",
+    "project_id": "trip-planner-f40ec",
+    "storage_bucket": "trip-planner-f40ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481838291225:android:41d414061bbbde50598d88",
+        "android_client_info": {
+          "package_name": "com.moringaschool.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481838291225-v90snmep703o5v0jfdvkmba1b2u46reb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.tripplanner",
+            "certificate_hash": "d49a09f860421eedf700a762fe555335f151187f"
+          }
+        },
+        {
+          "client_id": "481838291225-j8ca31b97ee98tbsr64dmmvqk9bicvmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBU-Lq6SBJkWllug4Q8lMIsLBRSAAsR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481838291225-j8ca31b97ee98tbsr64dmmvqk9bicvmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
